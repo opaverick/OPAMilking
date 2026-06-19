@@ -1,6 +1,6 @@
 # OPA Milking
 
-OPA Milking adds a lightweight milking system to DayZ. Server owners can place static milkable cows in farms and rural points of interest without using animal AI.
+OPA Milking adds a milking system to DayZ. Server owners can place static milkable cows in farms and rural points of interest without using animal AI.
 
 The mod adds a new consumable liquid, Milk, and a static interactive cow class. Cows remain saved after server restart and become available for milking again according to the server configuration.
 
