@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="OPA Milking Banner" width="100%">
+</p>
+
 # OPA Milking
 
 OPA Milking adds a milking system to DayZ. Server owners can place static milkable cows in farms and rural points of interest without using animal AI.
