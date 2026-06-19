@@ -1,0 +1,10 @@
+name = "OPA Milking";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "OPA Milking";
+overview = "Adds static milkable cows and milk as a consumable liquid.";
+action = "";
+author = "Opaverick";
+version = "0.1.0";

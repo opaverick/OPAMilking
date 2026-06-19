@@ -1,0 +1,12 @@
+*.pbo
+*.bisign
+*.biprivatekey
+*.log
+*.rpt
+*.mdmp
+*.tmp
+*.bak
+Build/
+Profiles/
+keys/*.biprivatekey
+Keys/*.biprivatekey
